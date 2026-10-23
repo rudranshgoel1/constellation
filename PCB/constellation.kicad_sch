@@ -1770,7 +1770,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 120.65 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -1863,7 +1863,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 133.35 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -1956,7 +1956,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 171.45 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -2049,7 +2049,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 133.35 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -2142,7 +2142,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 158.75 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -2235,7 +2235,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 158.75 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -2328,7 +2328,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 95.25 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -2421,7 +2421,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 146.05 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -2514,7 +2514,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 107.95 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -2607,7 +2607,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 146.05 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -2700,7 +2700,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 146.05 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -2793,7 +2793,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 95.25 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -2886,7 +2886,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 158.75 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -2979,7 +2979,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 120.65 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -3072,7 +3072,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 171.45 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -3165,7 +3165,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 120.65 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -3258,7 +3258,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 133.35 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -3351,7 +3351,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 107.95 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -3444,7 +3444,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 107.95 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -3537,7 +3537,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Battery:BatteryHolder_Keystone_3034_1x20mm"
 			(at 220.98 63.246 90)
 			(hide yes)
 			(show_name no)
@@ -3652,7 +3652,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 171.45 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -3823,7 +3823,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 95.25 62.23 0)
 			(hide yes)
 			(show_name no)
